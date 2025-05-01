@@ -71,7 +71,7 @@ Hi, I'm the developer behind FFDevCraft – a passionate software creator from S
 
 I started my professional career developing internal software used across branches of **Prima banka**, primarily focusing on .NET desktop solutions. Later, at **KROS**, I worked on desktop applications and backend systems, while also maintaining and extending features in their Android apps, including deployments and updates.
 
-Currently, I’m part of the team at Dôvera, where I focus on backend development using modern .NET technologies.
+Currently, I’m part of the team at **Dôvera**, where I focus on backend development using modern .NET technologies.
 
 In my free time, I love experimenting with game development, learning new frameworks, and working with tools like Unity, Firebase, and GitHub Actions.
 FFDevCraft is my personal playground – a place where I mix creativity with code and share the results with the world.
