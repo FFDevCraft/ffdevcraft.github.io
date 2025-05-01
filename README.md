@@ -63,7 +63,10 @@ Thanks for visiting the world of FFDevCraft – where learning, building, and fu
 
 ---
 
-👨‍💻 About Me
+
+
+
+### 👨‍💻 About Me
 Hi, I'm the developer behind FFDevCraft – a passionate software creator from Slovakia who enjoys building both games and useful tools.
 
 I started my professional career developing internal software used across branches of **Prima banka**, primarily focusing on .NET desktop solutions. Later, at **KROS**, I worked on desktop applications and backend systems, while also maintaining and extending features in their Android apps, including deployments and updates.
