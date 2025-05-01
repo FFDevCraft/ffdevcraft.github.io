@@ -22,20 +22,20 @@ We believe in:
 ---
 
 ## 📱 Current Project: 
-🎈 Risky Poppers
+### 🎈 Risky Poppers
 A balloon-popping arcade game built with Unity for Android devices.
 Pop balloons, avoid bombs, and climb the leaderboard.
 Firebase is used for authentication, analytics, and cloud database. Google AdMob handles monetization.
 
-🌾 Hay Bale Stock App
-A lightweight Android app for managing hay bale inventory.
-Designed for farmers and agricultural workers to easily track stored bales and their movement.
-Built natively for Android with a focus on simplicity and offline-first usability.
-
-### 🔗 Links
+🔗 Links
 
 - [Privacy Policy](https://sites.google.com/view/risky-poppers-privacy-policy)
 - [Account Deletion Request](https://docs.google.com/forms/d/e/1FAIpQLSeRhSjrUvrxRBPUJtk6EwEhkh86SdBaKTKc6Qy_ExzQghB7WQ/viewform)
+  
+### 🌾 Hay Bale Stock App
+A lightweight Android app for managing hay bale inventory.
+Designed for farmers and agricultural workers to easily track stored bales and their movement.
+Built natively for Android with a focus on simplicity and offline-first usability.
 
 ---
 
